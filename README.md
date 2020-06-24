@@ -1,2 +1,2 @@
 # Movies-data-anaylsis-
-In this project I have analyzed TMDB movies data, that’s contains all the details of movies between 1960 and 2015
+In this project I have analyzed TMDB movies data, that’s contains all the details of movies between 1960 and 2015.to find the answers of my questions which is, Is there a positive relationship between the budget of the movie and the revenue its earns?, What is the most popular movie since 1960 until 2015?, Which film has the highest revenues since 1960 to 2005?, What is the relationship between the popularity of the movie and the revenues its earns and finally Which genres are most popular from year to year?
